@@ -20,8 +20,10 @@ pip3 install -r requirements.txt
 ```
 
 ### Authors
-**** Katerina Chinnappan
-**** Kjell Zijlemaker
-**** Rohit Shaw
+Katerina Chinnappan
+
+Kjell Zijlemaker
+
+Rohit Shaw
 
 
